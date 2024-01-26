@@ -2,9 +2,10 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/sauravkb94/Chatbot) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eobwBwanstVKYHJ_c4KA6SEWQHeLLC1f#scrollTo=WWROT7gyJ2fN)
 
-<img src="ttps://github.com/sauravkb94/Chatbot/chat-bot.png" align="left"
-     alt="Chatbot" width="120" height="178">
+<img src="https://github.com/sauravkb94/Chatbot/blob/main/chat-bot.png" align="left"
+     alt="Chatbot" width="90" height="90">
 ## A chatbot that responds to a specific text that you provide using nltk lib (NLP) and  Cosine similarity for similarity score and builds a basic application
+
 
 **nlp_utils**- nltk stand for natural lang toolkit used for building python prohrams which work with human lang data and natural language processing.
 **string**- is concatenation of ASCII Lowercase and ASCII uppercase string constant
