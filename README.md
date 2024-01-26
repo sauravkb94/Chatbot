@@ -1,7 +1,6 @@
-#ffffff
 # Chatbot ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/NLTK)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/sauravkb94/Chatbot) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//]
+![GitHub Repo stars](https://img.shields.io/github/stars/sauravkb94/Chatbot) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eobwBwanstVKYHJ_c4KA6SEWQHeLLC1f#scrollTo=WWROT7gyJ2fN)
 
 ## A chatbot that responds to a specific text that you provide using nltk lib (NLP) and  Cosine similarity uses similarity score and builds a basic application
 
