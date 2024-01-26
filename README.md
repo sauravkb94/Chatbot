@@ -1,5 +1,5 @@
 # Chatbot
-## A chatbot that responds to a specific text that you provide. using nltk lib (NLP). Cosine similarity is used similarity score and build an basic application
+## A chatbot that responds to a specific text that you provide. using nltk lib (NLP). Cosine similarity is used similarity score and build a basic application
 
 **nlp_utils**- nltk stand for natural lang toolkit used for building python prohrams which work with human lang data and natural language processing.
 **string**- is concatenation of ASCII Lowercase and ASCII uppercase string constant
@@ -21,3 +21,10 @@ In this, I have divided the dataset into Query and Response using Panda function
 Import **tfidf** victimizer will fit_transform takes to feature vectors, which can be used as an input to estimate.So it converts each token or a word to a feature index in the matrix where each unique token gets a feature index.Then we have changed it to an array 
 once we had converted our query column into TFIDF. I have used **cosine_distance**(To measure the similarity, it is one of the most widely used and powerful similarity measures in data science, and it is used in the cases of NLP or natural language processing used for information retrieval. It is also used in multiple applications).
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
